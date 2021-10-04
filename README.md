@@ -1,2 +1,2 @@
-# Ejercicios de java
+# Ejercicios de java para programadores principiantes
  
